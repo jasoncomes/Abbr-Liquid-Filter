@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# abbr / https://www.notion.so/highereducation/abbr-fe82d347274d4398a05b6ef4d01b50b0
+# abbr / https://github.com/jasoncomes/Abbr-Liquid-Filter
 # Converts abbreviations into words, and words into abbreviations. These abbreviations need to be added to the _config.yml file for specific site usage.
 # {{ value | abbr }}
 
